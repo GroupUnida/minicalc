@@ -215,9 +215,9 @@ factor            → PUNCT_LPAREN expresion PUNCT_RPAREN | ID | NUM
 
 | Nombre | Usuario de GitHub |
 |--------|-------------------|
-| Alejandro Matías Martínez Ortiz | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Alejandro Matías Martínez Ortiz | Alejandro-Codedev |
+| Mauricio González | MauriGonza |
+| Sergio Sanabria | sergioalex0528-glitch |
+| Ismael Hermosilla | |
+| Eli Nuñez | |
+| Leandro Gimenez | |
