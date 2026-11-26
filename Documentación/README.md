@@ -215,8 +215,6 @@ factor            → PUNCT_LPAREN expresion PUNCT_RPAREN | ID | NUM
 
 | Nombre | Usuario de GitHub |
 |--------|-------------------|
-| Nombre | Usuario de GitHub |
-|--------|-------------------|
 | Alejandro Martínez | Alejandro-Codedev |
 | Mauricio González | MauriGonza |
 | Sergio Sanabria | sergioalex0528-glitch |
