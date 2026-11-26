@@ -38,7 +38,7 @@ cd minicalc
 ```
 
 Opción B, sin Git: en la página del repositorio, botón verde **Code → Download ZIP**,
-descomprimir y entrar a la carpeta `minicalc`.
+descomprimir y entrar a la carpeta `minicalc-main`.
 
 ### 3. Abrir una terminal en la carpeta del proyecto
 
