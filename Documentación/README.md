@@ -219,6 +219,6 @@ factor            → PUNCT_LPAREN expresion PUNCT_RPAREN | ID | NUM
 | Mauricio González | MauriGonza |
 | Sergio Sanabria | sergioalex0528-glitch |
 | Ismael Hermosilla | |
-| Ruth Nuñez | |
-| Leandro Gimenez | |
+| Ruth Nuñez |unidaruth07-maker |
+| Leandro Gimenez |leandrogimenez3012 |
 
