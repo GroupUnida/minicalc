@@ -1,7 +1,7 @@
 """
 Analizador léxico de Mini-Calc.
 
-Teoría aplicada (Parte 1.1 del informe — Modelado léxico):
+Teoría aplicada (sección 2 del informe — Modelado léxico):
 el lexer es la implementación directa del AFD unificado
     M = (Q, Σ, δ, q0, F)
 donde la función de transición δ : Q × Σ → Q está guardada como una
