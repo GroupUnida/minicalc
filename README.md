@@ -218,6 +218,6 @@ factor            → PUNCT_LPAREN expresion PUNCT_RPAREN | ID | NUM
 | Alejandro Martínez | Alejandro-Codedev |
 | Mauricio González | MauriGonza |
 | Sergio Sanabria | sergioalex0528-glitch |
-| Ismael Hermosilla | |
+| Ismael Hermosilla |davidhermosillareyes-facu |
 | Ruth Nuñez |unidaruth07-maker |
 | Leandro Gimenez |leandrogimenez3012 |
